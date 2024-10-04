@@ -1,0 +1,17 @@
+package gradingsystem;
+import java.util.Scanner;
+public class GradingSystem {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scanner = new Scanner(System.in);
+String continueInput ="yes";
+// Loop until the user decides to stop
+     While
+    (continueInput.equalsIgnoreCase("yes")) {
+System.out.print("Enter student's name:");	
+             String name =
+ Scanner.nextLine();
+  System.out.print("Enter student's grade:");
+       int grade =
+ scanner.nextInt();  		 
+}
